@@ -1,2 +1,2 @@
 // Bot Secret Token
-const BOT_TOKEN = "calculator-2026-secure";
+const BOT_TOKEN = "8722498030:AAGuRPEwD3FNDM1MjkKmKD3mbOzMASdFWpg";
